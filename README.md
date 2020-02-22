@@ -1,6 +1,4 @@
-# testRepository
-第一次使用
+# ServletExercise
 
+学习Servlet时编写的一个demo
 
-
-第一次push
